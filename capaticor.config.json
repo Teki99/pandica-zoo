@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.pandica-zoo",
+  "appName": "pandica-zoo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

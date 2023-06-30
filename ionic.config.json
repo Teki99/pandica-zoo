@@ -1,0 +1,7 @@
+{
+  "name": "pandica-zoo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
